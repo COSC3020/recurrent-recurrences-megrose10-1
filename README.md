@@ -24,7 +24,6 @@ $$ T(n) =
         1 & n \leq 1\\
         13 T\left(\frac{n}{13}\right) + 2n & n > 1
     \end{cases}
-
 $$
 
 1. T(n) = T(n/13) + 5
