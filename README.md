@@ -50,5 +50,5 @@ T(n) = 13^3T(n/13^3) + 4n + 2n
 T(n) = 13^iT(n/13^i) + 2in, i = log(base 13)n
 T(n) = nT(1) + 2log(base13)n * n ∈ Θ(nlogn)
 
-I used the lecture slides that are within the sorting lecture as well as my repository on recurrence relation to review the material further. I turned in this work Fall 2024, however, changed some things. I also went to lab and asked a question.
+I used the lecture slides that are within the sorting lecture as well as my repository on recurrence relation to review the material further. I turned in this work Fall 2024, however, changed some things due to it not being fully correct. I also went to lab and asked a question.
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
